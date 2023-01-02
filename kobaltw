@@ -1,2 +1,3 @@
-#!/usr/bin/env sh
-java -jar "`dirname "$0"`/kobalt/wrapper/kobalt-wrapper.jar" $*
+version https://git-lfs.github.com/spec/v1
+oid sha256:350abe7f015e0609a3eaeb884ab0ce1e2cb1c85b995a5e5656335f84e1729690
+size 82

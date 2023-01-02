@@ -1,5 +1,3 @@
-scp doc/index.html  target/jcommander-1.27.jar beust.com@beust.com:domains/jcommander.org/html
-mvn javadoc:javadoc
-scp -r target/site/apidocs beust.com@beust.com:domains/jcommander.org/html
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:170ad242689a8023885ec400b705405d3142018eafa27db918248bf98f29093f
+size 192
